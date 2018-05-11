@@ -1,4 +1,4 @@
-AngularJs directive pre and post link sample!
+AngularJs component with directive!
 
 To get you started, we included a small test content into application.
 
